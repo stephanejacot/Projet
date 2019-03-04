@@ -1,6 +1,7 @@
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
-  <link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>
     <title>FindThePrecious.com</title>
 </head>
 
@@ -9,11 +10,11 @@
       <nav>
         <ul>
             <li><a href="#Fellows">Fellows</a></li>
-            <li><a href="#The Ring">The Ring</a></li>
-            <li><a href="#Get my reward">Get my reward</a></li>
-	    <li><a href="#Best hunters">Best hunters</a></li>
-	    <li><a href="#Join the army">Join the army</a></li>
-	    <li><a href="#Contact Us">Contact Us</a></li>
+            <li><a href="#TheRing">The Ring</a></li>
+            <li><a href="#Getmyreward">Get my reward</a></li>
+	    <li><a href="#Besthunters">Best hunters</a></li>
+	    <li><a href="#Jointhearmy">Join the army</a></li>
+	    <li><a href="#ContactUs">Contact Us</a></li>
         </ul>
       </nav>
       </header>
@@ -25,26 +26,27 @@
 	</div>
 
     <section>
-      <div id="Most wanted">
+      <div id="Mostwanted">
            <ul>
 	  	<Li>
- 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a>
+ 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt="150"></a>
             	<h3>The Wizard</h3>
 	    	<p>Small description</p>
           	</li>
           	<li>
- 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a>
+ 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt="150"></a>
            	<h3>Hobbit #3</h3>
 	    	<p>Small description</p>
          	</li>
          	<li>
- 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a>
+ 		<a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt="150"></a>
             	<h3>Yummy Dwarf</h3>
 	    <p>Small description</p>
          	</li>
       	</ul>
+        </div>
     </section>
-      
+
     <hr/>
 
     <section>
@@ -54,7 +56,7 @@
         <button type="submit">Contact us</button>
     	</div> 
 	<div>
-	<a href="https://placeholder.com"><img src="https://via.placeholder.com/140"></a>
+	<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="140"></a>
 	</div>
     </section>
 
@@ -62,16 +64,12 @@
 
     <section>
 	<h3>Best hunters</h3>
- 	<div><a href="https://placeholder.com"><img src="https://via.placeholder.com/70"></a>
+ 	<div><a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="70"></a>
 	<h5>ElvesKiller22</h5>2 captures - <a href="https://placeholder.com">Profile</a>
-	<p><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-	<script type="IN/Share" data-url="https://www.linkedin.com"></script></p>
-    	</div> 
- 	<div><a href="https://placeholder.com"><img src="https://via.placeholder.com/70"></a>
+	</div> 
+ 	<div><a href="https://placeholder.com"><img src="https://via.placeholder.com/70" alt="70"></a>
 	<h5>Goblin45</h5>2 captures - <a href="https://placeholder.com">Profile</a>
-	<p><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-	<script type="IN/Share" data-url="https://www.linkedin.com"></script></p>
-    	</div> 
+	</div> 
     </section>
 
     <hr/>
@@ -101,7 +99,7 @@
         </tr>
                </tbody>
         </table>
-	
+
 	</div>
 	<div><h5>Why the ring is awesome ?</h5>My preeciooooooooooooouuuussssssssss! Hrk, Hrk !!	
 	</div>
@@ -112,7 +110,7 @@
     <section>
 	<h3>Join Mordor Army, we need you !</h3>
 	<div>
-	<a href="https://placeholder.com"><img src="https://via.placeholder.com/140"></a>
+	<a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt="140"></a>
 	</div>
 	<p>Lorem ipsum dolor..... ... .... .... .......... .......... ......... ......</p>
 	<div class="button">
@@ -127,25 +125,23 @@
       <h3>Contact Us</h3>
      <form action="/traitement" method="post">
     <div>    
-        <input type="e-mail" id="@" name="mail">
+        <input type="text" id="@" name="mail">
     </div>
     <div>
         <input type="text" id="Home" name="adress">
     </div>
     <div>
         <textarea rows="4" cols="50" id="msg" name="user_message"></textarea>
- </form>   
+    </div>
+    </form>
+    </div>
     </section>
-      
+
      <hr/>
 
-
-
     <footer>
-      <a href="#About Us">About Us</a><p><a href="#FAQ">FAQ</a></p>
+      <a href="#AbouUs">About Us</a><p><a href="#FAQ">FAQ</a></p>
       <p><a href="#Fellows">Fellows</a></p><p><a href="#Reward">Reward conditions</a></p>
       <p><a href="#Join">Join our Army</a></p><p><a href="#Legal">Legal mentions</a></p>
     </footer>
 </body>
-
- 
